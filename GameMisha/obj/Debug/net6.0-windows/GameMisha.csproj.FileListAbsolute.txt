@@ -1,0 +1,17 @@
+C:\Users\andre\Desktop\GameMisha\GameMisha\bin\Debug\net6.0-windows\GameMisha.exe
+C:\Users\andre\Desktop\GameMisha\GameMisha\bin\Debug\net6.0-windows\GameMisha.deps.json
+C:\Users\andre\Desktop\GameMisha\GameMisha\bin\Debug\net6.0-windows\GameMisha.runtimeconfig.json
+C:\Users\andre\Desktop\GameMisha\GameMisha\bin\Debug\net6.0-windows\GameMisha.dll
+C:\Users\andre\Desktop\GameMisha\GameMisha\bin\Debug\net6.0-windows\ref\GameMisha.dll
+C:\Users\andre\Desktop\GameMisha\GameMisha\bin\Debug\net6.0-windows\GameMisha.pdb
+C:\Users\andre\Desktop\GameMisha\GameMisha\obj\Debug\net6.0-windows\GameMisha.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\GameMisha\GameMisha\obj\Debug\net6.0-windows\GameMisha.Form1.resources
+C:\Users\andre\Desktop\GameMisha\GameMisha\obj\Debug\net6.0-windows\GameMisha.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\GameMisha\GameMisha\obj\Debug\net6.0-windows\GameMisha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\GameMisha\GameMisha\obj\Debug\net6.0-windows\GameMisha.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\GameMisha\GameMisha\obj\Debug\net6.0-windows\GameMisha.AssemblyInfo.cs
+C:\Users\andre\Desktop\GameMisha\GameMisha\obj\Debug\net6.0-windows\GameMisha.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\GameMisha\GameMisha\obj\Debug\net6.0-windows\GameMisha.dll
+C:\Users\andre\Desktop\GameMisha\GameMisha\obj\Debug\net6.0-windows\ref\GameMisha.dll
+C:\Users\andre\Desktop\GameMisha\GameMisha\obj\Debug\net6.0-windows\GameMisha.pdb
+C:\Users\andre\Desktop\GameMisha\GameMisha\obj\Debug\net6.0-windows\GameMisha.genruntimeconfig.cache
